@@ -5,6 +5,7 @@ import javax.persistence.Entity;
 public class LoanDecision {
 	private Person person;
 	private String decision;
+	
 	public Person getPerson() {
 		return person;
 	}
