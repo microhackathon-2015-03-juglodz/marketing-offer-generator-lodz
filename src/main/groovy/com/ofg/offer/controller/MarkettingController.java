@@ -21,7 +21,7 @@ import com.wordnik.swagger.annotations.Api;
 import com.wordnik.swagger.annotations.ApiOperation;
 
 @RestController
-@RequestMapping("/api/marketting")
+@RequestMapping("/api/marketing")
 @Api(value = "MarkettingOfferGenerator", description = "Generates offers")
 public class MarkettingController {
 	
